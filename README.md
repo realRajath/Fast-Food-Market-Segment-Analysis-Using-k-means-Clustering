@@ -1,3 +1,4 @@
+# Fast Food Market Segment Analysis Using K means Clustering
 # Description:-
  This project is helpful in building the market segmentation analysis on the fast food industry using K-means clustering. The primary aim is to design customer segments based on brand perception of McDonald's. the concusion is predicted based on the brand datasets.
 
